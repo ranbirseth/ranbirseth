@@ -1,23 +1,283 @@
-<h1 align="center">Hi 👋, I'm Ranbir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranbirseth&label=Profile%20views&color=0e75b6&style=flat" alt="ranbirseth" /> </p>
+# 👋 Hi, I'm Ranbir Seth
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranbirseth" alt="ranbirseth" /></a> </p>
+### 💻 Full Stack Developer • MERN • Next.js • 3D Web • AI
 
-<p align="left"> <a href="https://twitter.com/ranbirseth" target="blank"><img src="https://img.shields.io/twitter/follow/ranbirseth?logo=twitter&style=for-the-badge" alt="ranbirseth" /></a> </p>
+Building modern, scalable and interactive web experiences from India 🇮🇳
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ranbirseth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranbirseth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranbir seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranbir seth" height="30" width="40" /></a>
-<a href="https://fb.com/stackphanthom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stackphanthom" height="30" width="40" /></a>
-<a href="https://instagram.com/stackphanthom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stackphanthom" height="30" width="40" /></a>
+<a href="https://ranbirseth.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="https://github.com/ranbirseth">
+  <img src="https://img.shields.io/badge/GitHub-ranbirseth-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ranbirseth&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm **Ranbir Seth**, a passionate developer who enjoys turning ideas into real-world digital products.
+
+I work mainly with the **MERN stack, React, Next.js and modern frontend technologies**, while also exploring **3D web experiences, animation and AI-powered applications**.
+
+```javascript
+const ranbir = {
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
+
+    currentlyLearning: [
+        "Advanced React",
+        "Next.js",
+        "Three.js",
+        "AI Development"
+    ],
+
+    interests: [
+        "Web Development",
+        "3D Interactive Websites",
+        "AI Applications",
+        "SaaS Products"
+    ],
+
+    goal: "Build useful products that solve real-world problems 🚀"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### ⚙️ Backend & Database
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranbirseth&show_icons=true&locale=en&layout=compact" alt="ranbirseth" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranbirseth&show_icons=true&locale=en" alt="ranbirseth" /></p>
+### 🎮 3D & Animation
+
+<p>
+<img src="https://skillicons.dev/icons?i=threejs" />
+</p>
+
+**React Three Fiber • Three.js • GSAP • Framer Motion • Lenis**
+
+### 🤖 AI & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker" />
+</p>
+
+**AI APIs • Local AI • Ollama • ComfyUI • OpenVINO**
+
+### ☁️ Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏋️ Gym Management System
+
+A modern gym management platform with features such as:
+
+* 👥 Member management
+* 📊 Admin dashboard
+* 🏋️ Trainer management
+* 📅 Attendance tracking
+* 📱 QR attendance
+* 💳 Payment management
+* 🥗 Workout & diet management
+
+**Tech:** React • Node.js • Express • MongoDB
+
+</td>
+
+<td width="50%">
+
+### 🌐 3D Interactive Websites
+
+Creating immersive websites using modern web technologies.
+
+* 🎮 Three.js
+* ⚛️ React Three Fiber
+* 🎞️ GSAP
+* 🌀 Smooth scrolling
+* ✨ Interactive animations
+* 📱 Responsive design
+
+**Tech:** Next.js • React • Three.js • GSAP
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏠 PG / Hostel Websites
+
+Modern websites designed for PG, hostel and guest-house businesses.
+
+Features include:
+
+* 🛏️ Room showcase
+* 💰 Pricing
+* 📸 Gallery
+* 📍 Location
+* 📞 Enquiry system
+* 📱 Mobile-first design
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Experiments
+
+Exploring practical AI development and local AI tools.
+
+* 🧠 AI applications
+* 🎥 AI video generation
+* 🖼️ AI image generation
+* 💻 Local LLMs
+* ⚡ AI automation
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ranbirseth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranbirseth&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ranbirseth&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ranbirseth/ranbirseth/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 📈 My GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranbirseth&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] 🚀 Build and launch production SaaS projects
+* [ ] ⚛️ Master advanced React & Next.js
+* [ ] 🎮 Build more immersive 3D websites
+* [ ] 🤖 Build practical AI-powered applications
+* [ ] ☁️ Improve cloud deployment & DevOps skills
+* [ ] 💼 Work with real-world clients
+* [ ] 🌍 Contribute more to open source
+
+---
+
+# 💡 What I Love Building
+
+```text
+        ┌─────────────────────────────┐
+        │       💡 IDEA               │
+        └──────────────┬──────────────┘
+                       ↓
+        ┌─────────────────────────────┐
+        │       🎨 DESIGN             │
+        └──────────────┬──────────────┘
+                       ↓
+        ┌─────────────────────────────┐
+        │       💻 DEVELOPMENT        │
+        └──────────────┬──────────────┘
+                       ↓
+        ┌─────────────────────────────┐
+        │       🧪 TESTING            │
+        └──────────────┬──────────────┘
+                       ↓
+        ┌─────────────────────────────┐
+        │       🚀 DEPLOYMENT         │
+        └─────────────────────────────┘
+```
+
+I especially enjoy taking an idea from **concept → design → development → deployment**.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://ranbirseth.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ranbir-seth-02a0471b3/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/seth_ranbir1/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ranbirseth">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code. Create. Learn. Repeat. 🚀
+
+**Thanks for visiting my profile!**
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>
