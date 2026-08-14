@@ -2,282 +2,433 @@
 
 # 👋 Hi, I'm Ranbir Seth
 
-### 💻 Full Stack Developer • MERN • Next.js • 3D Web • AI
+### Full-Stack Developer | MERN | React | Node.js | MongoDB | TypeScript
 
-Building modern, scalable and interactive web experiences from India 🇮🇳
+**I build practical software that solves real business problems.**
 
-<a href="https://ranbirseth.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" alt="Portfolio"/>
-</a>
-<a href="https://github.com/ranbirseth">
-  <img src="https://img.shields.io/badge/GitHub-ranbirseth-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+From restaurant POS systems and gym management platforms
+to LPG distribution, billing, booking and modern web applications.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ranbirseth&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=ranbirseth\&style=for-the-badge\&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🧑‍💻 About Me
 
-I'm **Ranbir Seth**, a passionate developer who enjoys turning ideas into real-world digital products.
+I'm a **full-stack web developer from India** focused on building complete, business-oriented web applications.
 
-I work mainly with the **MERN stack, React, Next.js and modern frontend technologies**, while also exploring **3D web experiences, animation and AI-powered applications**.
+My GitHub journey includes **53 public repositories**, covering real-world management systems, e-commerce, food delivery, communication tools, authentication, billing platforms, UI projects and experimental applications.
 
-```javascript
-const ranbir = {
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
+Rather than building only UI demos, I enjoy working across the complete product:
 
-    currentlyLearning: [
-        "Advanced React",
-        "Next.js",
-        "Three.js",
-        "AI Development"
-    ],
+**Idea → UI → Frontend → API → Database → Business Logic → Deployment**
 
-    interests: [
-        "Web Development",
-        "3D Interactive Websites",
-        "AI Applications",
-        "SaaS Products"
-    ],
-
-    goal: "Build useful products that solve real-world problems 🚀"
-};
-```
+My strongest experience is around **MERN stack development and business automation**, while my newer projects are moving toward **TypeScript and more modern application architecture**.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 What I Build
 
-### 🎨 Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-</p>
+| 🏢 Business Software | 🛒 Commerce & Booking | 💻 Web Applications |
+| :------------------: | :-------------------: | :-----------------: |
+|    Restaurant POS    |    LPG Distribution   |  React Applications |
+|    Gym Management    |     Food Delivery     |   Next.js Websites  |
+|    Billing Systems   |    Shopping Systems   |    Landing Pages    |
+|   Admin Dashboards   |   Booking Platforms   |    UI Experiences   |
 
-### ⚙️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### 🎮 3D & Animation
-
-<p>
-<img src="https://skillicons.dev/icons?i=threejs" />
-</p>
-
-**React Three Fiber • Three.js • GSAP • Framer Motion • Lenis**
-
-### 🤖 AI & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker" />
-</p>
-
-**AI APIs • Local AI • Ollama • ComfyUI • OpenVINO**
-
-### ☁️ Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# ⭐ Featured Work
 
-<table>
-<tr>
-<td width="50%">
+## 🛢️ LPG Distribution System
 
-### 🏋️ Gym Management System
+### Full-Stack LPG Booking & Distribution Platform
 
-A modern gym management platform with features such as:
+One of my strongest projects and currently my **only starred repository**.
+
+Built around the MERN stack with a focus on real business workflows rather than a simple frontend demonstration.
+
+**What it demonstrates**
+
+* 📦 LPG distribution workflow
+* 🛒 Booking functionality
+* 👥 Customer management
+* 🔐 Application architecture
+* 🌐 Full-stack development
+* 🗄️ MongoDB database integration
+* ⚙️ REST API development
+* 📊 Business logic implementation
+
+**Stack:** `MongoDB` `Express.js` `React` `Node.js`
+
+---
+
+## 🏋️ Gymza
+
+### Gym Management & Business Automation System
+
+A more advanced direction in my development journey, built with **TypeScript**.
+
+The project focuses on automating operations inside a fitness business.
+
+**Key areas**
 
 * 👥 Member management
-* 📊 Admin dashboard
 * 🏋️ Trainer management
-* 📅 Attendance tracking
-* 📱 QR attendance
-* 💳 Payment management
+* 📅 Attendance
+* 📱 QR-based attendance
+* 💳 Payments
+* 📊 Admin dashboard
 * 🥗 Workout & diet management
+* 🔐 Authentication
+* 🗄️ Database-backed application
 
-**Tech:** React • Node.js • Express • MongoDB
+**Stack:** `TypeScript` `React` `Node.js` `MongoDB`
 
-</td>
+> This project represents my move from JavaScript-heavy development toward **type-safe TypeScript applications**.
 
-<td width="50%">
+---
 
-### 🌐 3D Interactive Websites
+## 🍽️ Restaurant POS & Management Systems
 
-Creating immersive websites using modern web technologies.
+Restaurant software is one of the largest areas represented in my GitHub portfolio.
 
-* 🎮 Three.js
-* ⚛️ React Three Fiber
-* 🎞️ GSAP
-* 🌀 Smooth scrolling
-* ✨ Interactive animations
+I've worked on multiple iterations and components around:
+
+* 🧾 POS systems
+* 💰 Billing
+* 📊 Admin dashboards
+* 🍔 Restaurant management
+* 📦 Order workflows
+* 👥 Customer management
+* 🔐 Authentication
+* 🏪 Business operations
+
+Projects include:
+
+`Atr_Resturant` • `resturant` • `Resturant-V2` • `resturent-billing-` • `ressturent-admin`
+
+These projects demonstrate my interest in building **software specifically for local businesses**.
+
+---
+
+## 🏠 Ankit Da Mesh
+
+### Premium PG / Hospitality Website
+
+A modern TypeScript-based website created for the hospitality/PG domain.
+
+Focus areas:
+
+* ✨ Modern UI
 * 📱 Responsive design
-
-**Tech:** Next.js • React • Three.js • GSAP
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏠 PG / Hostel Websites
-
-Modern websites designed for PG, hostel and guest-house businesses.
-
-Features include:
-
-* 🛏️ Room showcase
-* 💰 Pricing
+* 🏠 Property presentation
 * 📸 Gallery
 * 📍 Location
-* 📞 Enquiry system
-* 📱 Mobile-first design
+* 📞 Customer enquiry
+* 🎨 Modern frontend architecture
 
-</td>
-
-<td width="50%">
-
-### 🤖 AI Experiments
-
-Exploring practical AI development and local AI tools.
-
-* 🧠 AI applications
-* 🎥 AI video generation
-* 🖼️ AI image generation
-* 💻 Local LLMs
-* ⚡ AI automation
-
-</td>
-</tr>
-</table>
+**Stack:** `TypeScript` `React` `Modern Web Technologies`
 
 ---
 
-# 📊 GitHub Statistics
+# 🧩 Other Projects
 
-<div align="center">
+My portfolio also contains projects across several other areas.
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranbirseth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+### 🍔 Food & Delivery
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranbirseth&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+`easyeat` • `easy-eat` • `easy1` • `food-zone`
 
-</div>
+Exploring food ordering and delivery application workflows.
 
----
+### 💬 Communication
 
-# 🔥 GitHub Streak
+`chatApp` • `chatappapi`
 
-<div align="center">
+Frontend/backend projects exploring real-time communication and API-based applications.
 
-<img src="https://streak-stats.demolab.com?user=ranbirseth&theme=tokyonight&hide_border=true" />
+### 🔐 Utilities
 
-</div>
+`passmanag` • `Passmanag-Db`
+`contact` • `contact-App`
 
----
+Projects focused on authentication, data management and database-backed applications.
 
-# 🐍 My Contribution Snake
+### 🛍️ E-Commerce
 
-<div align="center">
+`React-Shopping-Cart-Project`
+`billing-client-frontend`
 
-<img src="https://raw.githubusercontent.com/ranbirseth/ranbirseth/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+Exploring shopping workflows, frontend architecture and payment/billing interfaces.
 
-</div>
+### 🎨 UI & Frontend Experiments
 
----
+`netflix-clone` • `uber` • `Insata-login`
 
-# 📈 My GitHub Activity
+Projects created to understand and recreate modern interfaces and interaction patterns.
 
-<div align="center">
+### 🤝 Internship / Social Projects
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranbirseth&theme=tokyo-night&hide_border=true" width="95%"/>
+`she-can-foundation` • `gigfloww-landing-page` • `algo-root`
 
-</div>
-
----
-
-# 🎯 2026 Goals
-
-* [ ] 🚀 Build and launch production SaaS projects
-* [ ] ⚛️ Master advanced React & Next.js
-* [ ] 🎮 Build more immersive 3D websites
-* [ ] 🤖 Build practical AI-powered applications
-* [ ] ☁️ Improve cloud deployment & DevOps skills
-* [ ] 💼 Work with real-world clients
-* [ ] 🌍 Contribute more to open source
+Projects from learning, internship and practical development work.
 
 ---
 
-# 💡 What I Love Building
+# 🛠️ Technology Stack
+
+## Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+
+</p>
+
+**HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Vite**
+
+---
+
+## Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</p>
+
+**Node.js • Express.js • REST APIs • Authentication • Business Logic**
+
+---
+
+## Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</p>
+
+**MongoDB • MySQL • Database Design**
+
+---
+
+## Development & Deployment
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify" />
+
+</p>
+
+**Git • GitHub • VS Code • Docker • Vercel • Netlify • Render**
+
+---
+
+# 💡 What I Bring to a Project
 
 ```text
-        ┌─────────────────────────────┐
-        │       💡 IDEA               │
-        └──────────────┬──────────────┘
-                       ↓
-        ┌─────────────────────────────┐
-        │       🎨 DESIGN             │
-        └──────────────┬──────────────┘
-                       ↓
-        ┌─────────────────────────────┐
-        │       💻 DEVELOPMENT        │
-        └──────────────┬──────────────┘
-                       ↓
-        ┌─────────────────────────────┐
-        │       🧪 TESTING            │
-        └──────────────┬──────────────┘
-                       ↓
-        ┌─────────────────────────────┐
-        │       🚀 DEPLOYMENT         │
-        └─────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│                 PRODUCT IDEA                     │
+└───────────────────────┬──────────────────────────┘
+                        ↓
+┌──────────────────────────────────────────────────┐
+│                 UI / UX                          │
+└───────────────────────┬──────────────────────────┘
+                        ↓
+┌──────────────────────────────────────────────────┐
+│             React / Next.js                      │
+└───────────────────────┬──────────────────────────┘
+                        ↓
+┌──────────────────────────────────────────────────┐
+│          Node.js / Express APIs                  │
+└───────────────────────┬──────────────────────────┘
+                        ↓
+┌──────────────────────────────────────────────────┐
+│          MongoDB / Database                      │
+└───────────────────────┬──────────────────────────┘
+                        ↓
+┌──────────────────────────────────────────────────┐
+│        Business Logic & Security                 │
+└───────────────────────┬──────────────────────────┘
+                        ↓
+┌──────────────────────────────────────────────────┐
+│              Deployment 🚀                       │
+└──────────────────────────────────────────────────┘
 ```
 
-I especially enjoy taking an idea from **concept → design → development → deployment**.
+I enjoy taking responsibility for the **complete application**, not just one layer of the stack.
 
 ---
 
-# 🤝 Let's Connect
+# 🧠 Core Capabilities
 
 <div align="center">
 
-<a href="https://ranbirseth.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+### Frontend Development
 
-<a href="https://www.linkedin.com/in/ranbir-seth-02a0471b3/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+React • TypeScript • Responsive UI • Component Architecture
 
-<a href="https://www.instagram.com/seth_ranbir1/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+### Backend Development
 
-<a href="https://github.com/ranbirseth">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Node.js • Express • REST APIs • Authentication • Business Logic
+
+### Database
+
+MongoDB • MySQL • Data Modeling • CRUD Operations
+
+### Application Features
+
+POS • Billing • Booking • Payments • Admin Dashboards • User Management
+
+### Real-Time Systems
+
+Chat Applications • API Communication • Real-Time Workflows
+
+### Business Applications
+
+Restaurants • Gyms • LPG Distribution • Food Delivery • Hospitality
 
 </div>
 
 ---
 
+# 📊 GitHub By the Numbers
+
 <div align="center">
 
-### 💻 Code. Create. Learn. Repeat. 🚀
+### 53+
 
-**Thanks for visiting my profile!**
+Public Repositories
 
-⭐ Feel free to explore my repositories and projects.
+### 7+
+
+Major Project Domains
+
+### 20–25
+
+Active / Relevant Projects
+
+### 1 ⭐
+
+Public Repository Star
+
+</div>
+
+My repository history shows a progression from **learning projects and prototypes → complete applications → business-focused production-style systems**.
+
+---
+
+# 📈 My Development Journey
+
+```text
+HTML / CSS
+     │
+     ▼
+JavaScript
+     │
+     ▼
+React
+     │
+     ▼
+MERN Stack
+     │
+     ├──────────────► REST APIs
+     │
+     ├──────────────► Authentication
+     │
+     ├──────────────► Database Design
+     │
+     ├──────────────► Business Applications
+     │
+     └──────────────► Real-World Projects
+                            │
+                            ▼
+                      TypeScript
+                            │
+                            ▼
+                 Advanced Architecture
+```
+
+---
+
+# 🎯 Current Focus
+
+I'm currently focusing on becoming a stronger **production-oriented full-stack developer**.
+
+### 🔄 Improving
+
+* TypeScript
+* Advanced React patterns
+* Application architecture
+* Scalable backend design
+* Database architecture
+* Deployment & DevOps
+* System design
+
+### 🚀 Building
+
+* Business management platforms
+* Modern SaaS-style applications
+* Interactive websites
+* Automation tools
+* AI-powered applications
+
+---
+
+# 🏆 My Development Philosophy
+
+> **Don't just build a website. Build a solution.**
+
+A good application should understand the problem first and then use technology to solve it.
+
+That's why many of my projects are based around real business workflows:
+
+**Restaurant → POS → Billing → Management**
+
+**Gym → Members → Trainers → Attendance → Payments**
+
+**LPG → Booking → Customers → Distribution**
+
+**Hospitality → Property → Rooms → Enquiries**
+
+---
+
+# 📌 What I'm Looking For
+
+I'm interested in opportunities involving:
+
+* 💼 Full-Stack Development
+* 🚀 Startup & SaaS Products
+* 🏢 Business Software
+* 🤝 Freelance Development
+* ⚛️ React / Next.js Development
+* 🟨 MERN Stack Development
+* 📘 TypeScript Projects
+
+---
+
+# 🤝 Let's Build Something
+
+If you're working on a product, startup or business application and need someone who can work across the **frontend, backend and database**, feel free to connect.
+
+<div align="center">
+
+### 💻 Build → Learn → Improve → Ship 🚀
+
+<br/>
+
+**Thanks for visiting my GitHub profile!**
+
+⭐ Explore my repositories and follow my development journey.
 
 </div>
